@@ -24,7 +24,7 @@
 ### Frameworks & Middlewares:
 
 * **[ExpressJS](https://expressjs.com/)** is used for Server Side Routing applications.
-* **[MongooseJS](http://mongoosejs.com/)** is used for Back-End Database operations with MongoDB NoSQL Database.
+* **[MongooseJS](http://mongoosejs.com/)** is used for Back-End Database operations with MongoDB Database.
 * **[Body-Parser](https://github.com/expressjs/body-parser/)** is used to Parse the data that was received as a result of HTTP POST request.
 * **[Method-Override](https://github.com/expressjs/method-override)** is used to override the HTTP verb to implement PUT and DELETE methods.
 * **[Express.Static()](https://expressjs.com/en/starter/static-files.html)** is used to serve the Static files CSS, JS, etc. in the directory as specified.
@@ -33,4 +33,3 @@
 ### Note:
 
 The application is hosted on [GoormIDE](https://ide.goorm.io/), an open-source Cloud IDE Service for developing web applications.
-
