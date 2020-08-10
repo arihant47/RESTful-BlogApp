@@ -1,0 +1,12 @@
+/* ****Instead of bootstrap "Semantic UI" is been used here****** */
+i.icon {
+	font-size: 1.8em;
+}
+
+.container.main {
+	margin-top: 7.0em
+}
+
+#delete{
+	display: inline;
+}
